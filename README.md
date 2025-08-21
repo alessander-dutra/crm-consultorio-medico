@@ -1,8 +1,9 @@
 # 🏥 PlenoAdvisor - Consultório Médico & Corretoras
 
 <div align="center">
-
+![SIXVOX Logo](https://img.shields.io/badge/SIXVOX-Sistema%20Enterprise-blue?style=for-the-badge&logo=health)
 [!PlenoAdvisor  Logo](https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/8bfab9b3-9b87-4518-9325-925c85f4d4c2.png)]
+
 <div align="center">
     <img alt="RAGLight" height="200px" src="./media/logo.png">
 </div>
