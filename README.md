@@ -3,6 +3,9 @@
 <div align="center">
 
 [!PlenoAdvisor  Logo](https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/8bfab9b3-9b87-4518-9325-925c85f4d4c2.png)]
+<div align="center">
+    <img alt="RAGLight" height="200px" src="./media/logo.png">
+</div>
 
 [![Node.js](https://img.shields.io/badge/Node.js-18.x-green?logo=node.js)](https://nodejs.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue?logo=postgresql)](https://postgresql.org/)
