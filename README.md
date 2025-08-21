@@ -1,8 +1,8 @@
-# 🏥 Gestao medic plus - Consultório Médico & Corretoras
+# 🏥 PlenoAdvisor - Consultório Médico & Corretoras
 
 <div align="center">
 
-![gestaomedicplus  Logo](https://img.shields.io/badge/gestaomedicplus -Sistema%20Enterprise-blue?style=for-the-badge&logo=health)
+![PlenoAdvisor  Logo](https://img.shields.io/badge/PlenoAdvisor -Sistema%20Enterprise-blue?style=for-the-badge&logo=health)
 
 [![Node.js](https://img.shields.io/badge/Node.js-18.x-green?logo=node.js)](https://nodejs.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue?logo=postgresql)](https://postgresql.org/)
@@ -21,7 +21,7 @@
 
 ## 🎯 **Visão Geral**
 
-O **gestaomedicplus ** é uma plataforma enterprise completa que unifica a gestão de **corretoras de planos de saúde** e **consultórios médicos** em um sistema integrado, moderno e escalável.
+O **PlenoAdvisor ** é uma plataforma enterprise completa que unifica a gestão de **corretoras de planos de saúde** e **consultórios médicos** em um sistema integrado, moderno e escalável.
 
 ### **✨ Principais Funcionalidades**
 
